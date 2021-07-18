@@ -5,6 +5,10 @@ body {
 	color: #303030;
 }
 
+P {
+	line-height: 120%;
+}
+
 .topf {
 	margin: 0;
 	width: auto;
