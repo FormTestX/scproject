@@ -145,17 +145,23 @@ small {
 textarea {
 	text-indent: none;
 	width: 100%;
-	border-radius: 5px;
+	border-radius: 6px;
 	font-family: Arial;
 	resize: none;
 	outline: none;
 	border: 1px solid #d9d9d9;
+	text-indent: 7px;
 
 	transition: border 0.20s;
 } 
 
 textarea:focus {
 	border: 1px solid black;
+}
+
+.bt {
+	margin-left: 7px;
+	color: #fa7c73;
 }
 
 	}
