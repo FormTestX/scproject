@@ -161,4 +161,5 @@ textarea:focus {
 .bt {
 	margin-left: 7px;
 	color: #fa7c73;
+	-webkit-appearance: none;
 }
